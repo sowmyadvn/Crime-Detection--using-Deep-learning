@@ -7,4 +7,4 @@ Trained the model for 40000 iterations using pretrained weights file convolution
 
 ### Sample Output of Detection
 
-![Output_Sample] (https://user-images.githubusercontent.com/22230078/34093626-1ad26abc-e37e-11e7-9c49-34ccf00ee478.png)
+![Output.png](https://user-images.githubusercontent.com/22230078/34093626-1ad26abc-e37e-11e7-9c49-34ccf00ee478.png)
