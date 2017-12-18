@@ -5,3 +5,6 @@ Crime detection is one of the highly useful applications in the fields of deep l
 
 Trained the model for 40000 iterations using pretrained weights file convolutional layer :  http://pjreddie.com/media/files/darknet19_448.conv.23
 
+### Sample Output of Detection
+
+https://user-images.githubusercontent.com/22230078/34093626-1ad26abc-e37e-11e7-9c49-34ccf00ee478.png
